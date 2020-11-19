@@ -1,7 +1,8 @@
 p {
 	color: yellow;
-	background: purple;
+	background: lightblue;
 	font-weight: bold;
 	text-align: center;
 	font-size: 24px;
+	text-shadow: 4px 4px black;
 }
